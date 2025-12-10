@@ -1,0 +1,242 @@
+{
+    "singlehuman_9": {
+        "cur_score": 0.8151972834020853,
+        "arc_score": 0.7765382118523121
+    },
+    "singleface_22": {
+        "cur_score": 0.8553537502884865,
+        "arc_score": 0.8282674383372068
+    },
+    "singleface_19": {
+        "cur_score": 0.6960667856037617,
+        "arc_score": 0.5839820504188538
+    },
+    "singleface_18": {
+        "cur_score": 0.7501466888934374,
+        "arc_score": 0.6864881366491318
+    },
+    "singleface_12": {
+        "cur_score": 0.7767635490745306,
+        "arc_score": 0.7944248486310244
+    },
+    "singleface_3": {
+        "cur_score": 0.5535688884556293,
+        "arc_score": 0.46303163189440966
+    },
+    "singleface_16": {
+        "cur_score": 0.8829106707125902,
+        "arc_score": 0.8380913231521845
+    },
+    "singlehuman_12": {
+        "cur_score": 0.31846933177439496,
+        "arc_score": 0.29388199545792304
+    },
+    "singleface_28": {
+        "cur_score": 0.9096850547939539,
+        "arc_score": 0.8840040899813175
+    },
+    "singlehuman_27": {
+        "cur_score": 0.36398747842758894,
+        "arc_score": 0.3776549054309726
+    },
+    "singleface_7": {
+        "cur_score": 0.8344594240188599,
+        "arc_score": 0.7892648819833994
+    },
+    "singlehuman_14": {
+        "cur_score": 0.8912284802645445,
+        "arc_score": 0.8822281621396542
+    },
+    "singlehuman_15": {
+        "cur_score": 0.8839363418519497,
+        "arc_score": 0.8519230019301176
+    },
+    "singleface_23": {
+        "cur_score": 0.23735219798982143,
+        "arc_score": 0.16550462739542127
+    },
+    "singleface_9": {
+        "cur_score": 0.7026791945099831,
+        "arc_score": 0.6866747047752142
+    },
+    "singleface_24": {
+        "cur_score": 0.850810568779707,
+        "arc_score": 0.8092327583581209
+    },
+    "singlehuman_30": {
+        "cur_score": 0.6848491244018078,
+        "arc_score": 0.6644000932574272
+    },
+    "singleface_2": {
+        "cur_score": 0.42063189297914505,
+        "arc_score": 0.4387500109151006
+    },
+    "singlehuman_29": {
+        "cur_score": 0.4426461309194565,
+        "arc_score": 0.4270126838237047
+    },
+    "singlehuman_6": {
+        "cur_score": 0.572993254289031,
+        "arc_score": 0.5399125954136252
+    },
+    "singleface_8": {
+        "cur_score": 0.04899272855756612,
+        "arc_score": 0.002864093810785562
+    },
+    "singlehuman_7": {
+        "cur_score": 0.7867414653301239,
+        "arc_score": 0.7149334568530321
+    },
+    "singleface_10": {
+        "cur_score": 0.9454330895096064,
+        "arc_score": 0.916521780192852
+    },
+    "singlehuman_21": {
+        "cur_score": 0.6262804884463549,
+        "arc_score": 0.5699516590684652
+    },
+    "singleface_21": {
+        "cur_score": 0.8226917423307896,
+        "arc_score": 0.7596395015716553
+    },
+    "singleface_26": {
+        "cur_score": 0.7924067378044128,
+        "arc_score": 0.7334657441824675
+    },
+    "singleface_15": {
+        "cur_score": 0.31088531762361526,
+        "arc_score": 0.22974016703665257
+    },
+    "singlehuman_5": {
+        "cur_score": 0.7126764710992575,
+        "arc_score": 0.6901594996452332
+    },
+    "singlehuman_17": {
+        "cur_score": 0.8784449975937605,
+        "arc_score": 0.848069790750742
+    },
+    "singlehuman_23": {
+        "cur_score": 0.7248847782611847,
+        "arc_score": 0.6708519328385592
+    },
+    "singlehuman_11": {
+        "cur_score": 0.36950837541371584,
+        "arc_score": 0.32071263855323195
+    },
+    "singlehuman_3": {
+        "cur_score": 0.6534177847206593,
+        "arc_score": 0.5909550841897726
+    },
+    "singlehuman_19": {
+        "cur_score": 0.6970030125230551,
+        "arc_score": 0.7017781473696232
+    },
+    "singlehuman_16": {
+        "cur_score": 0.7606150861829519,
+        "arc_score": 0.7161869034171104
+    },
+    "singleface_25": {
+        "cur_score": 0.6649612355977297,
+        "arc_score": 0.6161879245191813
+    },
+    "singlehuman_28": {
+        "cur_score": 0.6263885293155909,
+        "arc_score": 0.5657238084822893
+    },
+    "singleface_6": {
+        "cur_score": 0.7933093253523111,
+        "arc_score": 0.7718579452484846
+    },
+    "singleface_17": {
+        "cur_score": 0.5142787201330066,
+        "arc_score": 0.4563046619296074
+    },
+    "singlehuman_25": {
+        "cur_score": 0.8355363123118877,
+        "arc_score": 0.7947993408888578
+    },
+    "singleface_11": {
+        "cur_score": 0.4623176632449031,
+        "arc_score": 0.4597900817170739
+    },
+    "singleface_14": {
+        "cur_score": 0.8929338287562132,
+        "arc_score": 0.8655583672225475
+    },
+    "singleface_13": {
+        "cur_score": 0.5706627499312162,
+        "arc_score": 0.5937770549207926
+    },
+    "singleface_27": {
+        "cur_score": 0.6936412826180458,
+        "arc_score": 0.6911117918789387
+    },
+    "singlehuman_20": {
+        "cur_score": 0.00645737607891743,
+        "arc_score": 0.04746933141723275
+    },
+    "singlehuman_13": {
+        "cur_score": 0.22703955881297588,
+        "arc_score": 0.17609169171191752
+    },
+    "singlehuman_8": {
+        "cur_score": 0.5522865112870932,
+        "arc_score": 0.5207229293882847
+    },
+    "singlehuman_24": {
+        "cur_score": 0.36330275889486074,
+        "arc_score": 0.3139090952463448
+    },
+    "singlehuman_18": {
+        "cur_score": 0.27719146478921175,
+        "arc_score": 0.218749021878466
+    },
+    "singleface_29": {
+        "cur_score": 0.7271790448576212,
+        "arc_score": 0.6516378782689571
+    },
+    "singleface_20": {
+        "cur_score": 0.5464053610339761,
+        "arc_score": 0.4212626414373517
+    },
+    "singleface_30": {
+        "cur_score": 0.6672043278813362,
+        "arc_score": 0.6688054464757442
+    },
+    "singlehuman_26": {
+        "cur_score": 0.7626738362014294,
+        "arc_score": 0.7296176543459296
+    },
+    "singleface_1": {
+        "cur_score": 0.7055652607232332,
+        "arc_score": 0.6698982082307339
+    },
+    "singlehuman_10": {
+        "cur_score": 0.9190829247236252,
+        "arc_score": 0.909979335963726
+    },
+    "singleface_4": {
+        "cur_score": 0.5790692325681448,
+        "arc_score": 0.5863649789243937
+    },
+    "singlehuman_4": {
+        "cur_score": 0.27920836872524685,
+        "arc_score": 0.26551562050978345
+    },
+    "singleface_5": {
+        "cur_score": 0.8288794010877609,
+        "arc_score": 0.7852424867451191
+    },
+    "singlehuman_2": {
+        "cur_score": 0.9392945822328329,
+        "arc_score": 0.9195848517119884
+    },
+    "singlehuman_22": {
+        "cur_score": 0.7552726250141859,
+        "arc_score": 0.7152358777821064
+    },
+    "singlehuman_1": {
+        "cur_score": 0.7183300480246544,
+        "arc_score": 0.6714964676648378
+    }
+}

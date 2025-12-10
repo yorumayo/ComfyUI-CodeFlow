@@ -1,0 +1,542 @@
+{
+    "singlehuman_9": {
+        "motion_smoothness": 0.9382716049382716
+    },
+    "faceobj_8": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_14": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_22": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_19": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_18": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_12": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singleface_3": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_13": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_2": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_16": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_12": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_10": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_28": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_27": {
+        "motion_smoothness": 0.8641975308641976
+    },
+    "singleobj_26": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_1": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_8": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_26": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "multiobject_24": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_1": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singleface_7": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_14": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_8": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_3": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_28": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "singlehuman_15": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_23": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_13": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_5": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_9": {
+        "motion_smoothness": 0.2098765432098766
+    },
+    "faceobj_13": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_24": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_3": {
+        "motion_smoothness": 0.9259259259259259
+    },
+    "singlehuman_30": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_19": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_2": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_29": {
+        "motion_smoothness": 0.8888888888888888
+    },
+    "singlehuman_6": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "humanobj_8": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_28": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_8": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "singleobj_10": {
+        "motion_smoothness": 0.9382716049382716
+    },
+    "singleface_8": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_8": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_12": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_7": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_10": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_30": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_21": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_21": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_26": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_15": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_4": {
+        "motion_smoothness": 0.617283950617284
+    },
+    "multihuman_1": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_29": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singlehuman_5": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_2": {
+        "motion_smoothness": 0.9382716049382716
+    },
+    "singlehuman_17": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_23": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_11": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_11": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_25": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_3": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_3": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_5": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_3": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_23": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_19": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_7": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_7": {
+        "motion_smoothness": 0.962962962962963
+    },
+    "humanobj_15": {
+        "motion_smoothness": 0.9012345679012346
+    },
+    "singlehuman_16": {
+        "motion_smoothness": 0.8765432098765432
+    },
+    "singleface_25": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_5": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_28": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_10": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_2": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_6": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_17": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_6": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_18": {
+        "motion_smoothness": 0.9259259259259259
+    },
+    "singlehuman_25": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_4": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_30": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_4": {
+        "motion_smoothness": 0.8888888888888888
+    },
+    "singleface_11": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_27": {
+        "motion_smoothness": 0.9259259259259259
+    },
+    "multiface_1": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_14": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_6": {
+        "motion_smoothness": 0.7283950617283951
+    },
+    "singleobj_1": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_12": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_9": {
+        "motion_smoothness": 0.9382716049382716
+    },
+    "multiobject_17": {
+        "motion_smoothness": 0.8148148148148149
+    },
+    "humanobj_14": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "multiface_9": {
+        "motion_smoothness": 0.9012345679012346
+    },
+    "faceobj_5": {
+        "motion_smoothness": 0.8148148148148149
+    },
+    "multiobject_4": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_12": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_14": {
+        "motion_smoothness": 0.8765432098765432
+    },
+    "faceobj_14": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_21": {
+        "motion_smoothness": 0.7777777777777778
+    },
+    "multihuman_10": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_12": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_13": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_3": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_9": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_7": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_15": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_4": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_15": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_22": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_27": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "faceobj_2": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_14": {
+        "motion_smoothness": 0.8518518518518519
+    },
+    "singlehuman_20": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_11": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_16": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_24": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "multiface_2": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_11": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_4": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singleobj_23": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singlehuman_13": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_22": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_29": {
+        "motion_smoothness": 0.7407407407407407
+    },
+    "faceobj_15": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_5": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_8": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_27": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_11": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_7": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_16": {
+        "motion_smoothness": 0.8518518518518519
+    },
+    "singleobj_21": {
+        "motion_smoothness": 0.962962962962963
+    },
+    "singlehuman_24": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singlehuman_18": {
+        "motion_smoothness": 0.962962962962963
+    },
+    "singleface_29": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_6": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_18": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "singleface_20": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_2": {
+        "motion_smoothness": 0.9753086419753086
+    },
+    "multiobject_9": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_30": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "multiobject_20": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_25": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_6": {
+        "motion_smoothness": 0.9382716049382716
+    },
+    "singlehuman_26": {
+        "motion_smoothness": 0.9259259259259259
+    },
+    "singleface_1": {
+        "motion_smoothness": 1.0
+    },
+    "multiface_14": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_10": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_9": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_15": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_9": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_10": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_10": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_17": {
+        "motion_smoothness": 0.962962962962963
+    },
+    "multiobject_13": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_4": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_13": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_4": {
+        "motion_smoothness": 1.0
+    },
+    "singleface_5": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_3": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "singleobj_11": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_11": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_1": {
+        "motion_smoothness": 0.9259259259259259
+    },
+    "humanobj_5": {
+        "motion_smoothness": 0.9506172839506173
+    },
+    "multihuman_12": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_2": {
+        "motion_smoothness": 1.0
+    },
+    "multihuman_7": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_6": {
+        "motion_smoothness": 0.8518518518518519
+    },
+    "singleobj_19": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_22": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_7": {
+        "motion_smoothness": 1.0
+    },
+    "singlehuman_1": {
+        "motion_smoothness": 1.0
+    },
+    "multiobject_15": {
+        "motion_smoothness": 1.0
+    },
+    "humanobj_6": {
+        "motion_smoothness": 1.0
+    },
+    "singleobj_20": {
+        "motion_smoothness": 0.9135802469135803
+    },
+    "singleobj_13": {
+        "motion_smoothness": 1.0
+    },
+    "faceobj_12": {
+        "motion_smoothness": 1.0
+    }
+}

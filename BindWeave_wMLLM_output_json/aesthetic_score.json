@@ -1,0 +1,542 @@
+{
+    "singlehuman_9": {
+        "aes_score": 6.077502250671387
+    },
+    "faceobj_8": {
+        "aes_score": 5.169866561889648
+    },
+    "multihuman_14": {
+        "aes_score": 5.608159065246582
+    },
+    "singleface_22": {
+        "aes_score": 5.4637064933776855
+    },
+    "singleface_19": {
+        "aes_score": 5.423267364501953
+    },
+    "singleface_18": {
+        "aes_score": 5.161104679107666
+    },
+    "singleface_12": {
+        "aes_score": 4.869364261627197
+    },
+    "singleface_3": {
+        "aes_score": 5.4923176765441895
+    },
+    "multihuman_13": {
+        "aes_score": 5.276650428771973
+    },
+    "multihuman_2": {
+        "aes_score": 5.523908615112305
+    },
+    "singleface_16": {
+        "aes_score": 5.6724114418029785
+    },
+    "singlehuman_12": {
+        "aes_score": 5.731351852416992
+    },
+    "multiface_10": {
+        "aes_score": 5.265114784240723
+    },
+    "singleface_28": {
+        "aes_score": 5.952611923217773
+    },
+    "singlehuman_27": {
+        "aes_score": 5.5792694091796875
+    },
+    "singleobj_26": {
+        "aes_score": 4.864502906799316
+    },
+    "multiobject_1": {
+        "aes_score": 4.947615623474121
+    },
+    "singleobj_8": {
+        "aes_score": 4.863664627075195
+    },
+    "multiobject_26": {
+        "aes_score": 4.614295959472656
+    },
+    "multiobject_24": {
+        "aes_score": 5.593928813934326
+    },
+    "faceobj_1": {
+        "aes_score": 5.371578693389893
+    },
+    "singleface_7": {
+        "aes_score": 5.027559280395508
+    },
+    "singlehuman_14": {
+        "aes_score": 5.266194820404053
+    },
+    "multiface_8": {
+        "aes_score": 5.352499485015869
+    },
+    "faceobj_3": {
+        "aes_score": 5.785268306732178
+    },
+    "singleobj_28": {
+        "aes_score": 5.191745281219482
+    },
+    "singlehuman_15": {
+        "aes_score": 5.366727352142334
+    },
+    "singleface_23": {
+        "aes_score": 5.448507308959961
+    },
+    "multiface_13": {
+        "aes_score": 5.328308582305908
+    },
+    "multiface_5": {
+        "aes_score": 5.397723197937012
+    },
+    "singleface_9": {
+        "aes_score": 5.309917449951172
+    },
+    "faceobj_13": {
+        "aes_score": 5.838071823120117
+    },
+    "singleface_24": {
+        "aes_score": 5.818605422973633
+    },
+    "singleobj_3": {
+        "aes_score": 5.238552093505859
+    },
+    "singlehuman_30": {
+        "aes_score": 5.89707088470459
+    },
+    "multiobject_19": {
+        "aes_score": 5.309754848480225
+    },
+    "singleface_2": {
+        "aes_score": 5.450807094573975
+    },
+    "singlehuman_29": {
+        "aes_score": 5.6543731689453125
+    },
+    "singlehuman_6": {
+        "aes_score": 5.224007606506348
+    },
+    "humanobj_8": {
+        "aes_score": 5.724964141845703
+    },
+    "multiobject_28": {
+        "aes_score": 4.654658794403076
+    },
+    "multiobject_8": {
+        "aes_score": 5.483726501464844
+    },
+    "singleobj_10": {
+        "aes_score": 5.601818084716797
+    },
+    "singleface_8": {
+        "aes_score": 5.280648231506348
+    },
+    "multihuman_8": {
+        "aes_score": 5.3784379959106445
+    },
+    "multiface_12": {
+        "aes_score": 5.411361217498779
+    },
+    "singlehuman_7": {
+        "aes_score": 5.437215328216553
+    },
+    "singleface_10": {
+        "aes_score": 5.120608329772949
+    },
+    "multiobject_30": {
+        "aes_score": 5.511991500854492
+    },
+    "singlehuman_21": {
+        "aes_score": 5.650273323059082
+    },
+    "singleface_21": {
+        "aes_score": 5.248369216918945
+    },
+    "singleface_26": {
+        "aes_score": 6.302524566650391
+    },
+    "singleface_15": {
+        "aes_score": 5.203878402709961
+    },
+    "faceobj_4": {
+        "aes_score": 4.887455940246582
+    },
+    "multihuman_1": {
+        "aes_score": 5.794460296630859
+    },
+    "multiobject_29": {
+        "aes_score": 4.967352390289307
+    },
+    "singlehuman_5": {
+        "aes_score": 5.815967559814453
+    },
+    "humanobj_2": {
+        "aes_score": 5.888675689697266
+    },
+    "singlehuman_17": {
+        "aes_score": 5.232700347900391
+    },
+    "singlehuman_23": {
+        "aes_score": 5.919339179992676
+    },
+    "singlehuman_11": {
+        "aes_score": 6.403816223144531
+    },
+    "multiobject_11": {
+        "aes_score": 5.470670700073242
+    },
+    "multiobject_25": {
+        "aes_score": 4.998991012573242
+    },
+    "singlehuman_3": {
+        "aes_score": 6.042990684509277
+    },
+    "multiface_3": {
+        "aes_score": 5.134599685668945
+    },
+    "singleobj_5": {
+        "aes_score": 5.6451005935668945
+    },
+    "multihuman_3": {
+        "aes_score": 5.309069633483887
+    },
+    "multiobject_23": {
+        "aes_score": 5.104952812194824
+    },
+    "singlehuman_19": {
+        "aes_score": 5.952437400817871
+    },
+    "humanobj_7": {
+        "aes_score": 5.6534576416015625
+    },
+    "faceobj_7": {
+        "aes_score": 5.453019142150879
+    },
+    "humanobj_15": {
+        "aes_score": 5.06443977355957
+    },
+    "singlehuman_16": {
+        "aes_score": 5.717801094055176
+    },
+    "singleface_25": {
+        "aes_score": 5.8586554527282715
+    },
+    "multihuman_5": {
+        "aes_score": 5.347179412841797
+    },
+    "singlehuman_28": {
+        "aes_score": 5.797922134399414
+    },
+    "humanobj_10": {
+        "aes_score": 5.542396545410156
+    },
+    "singleobj_2": {
+        "aes_score": 5.668347358703613
+    },
+    "singleface_6": {
+        "aes_score": 5.607949256896973
+    },
+    "singleface_17": {
+        "aes_score": 5.471535682678223
+    },
+    "multihuman_6": {
+        "aes_score": 5.766434669494629
+    },
+    "singleobj_18": {
+        "aes_score": 5.155359268188477
+    },
+    "singlehuman_25": {
+        "aes_score": 5.690768241882324
+    },
+    "multihuman_4": {
+        "aes_score": 5.650480270385742
+    },
+    "singleobj_30": {
+        "aes_score": 5.079574108123779
+    },
+    "multiface_4": {
+        "aes_score": 5.116888523101807
+    },
+    "singleface_11": {
+        "aes_score": 5.644401550292969
+    },
+    "singleobj_27": {
+        "aes_score": 5.3221964836120605
+    },
+    "multiface_1": {
+        "aes_score": 5.8868279457092285
+    },
+    "singleface_14": {
+        "aes_score": 5.095909118652344
+    },
+    "multiface_6": {
+        "aes_score": 5.272261142730713
+    },
+    "singleobj_1": {
+        "aes_score": 5.09700870513916
+    },
+    "multiobject_12": {
+        "aes_score": 5.462621688842773
+    },
+    "humanobj_9": {
+        "aes_score": 5.671412467956543
+    },
+    "multiobject_17": {
+        "aes_score": 4.882259845733643
+    },
+    "humanobj_14": {
+        "aes_score": 4.902276039123535
+    },
+    "multiface_9": {
+        "aes_score": 4.997178077697754
+    },
+    "faceobj_5": {
+        "aes_score": 5.2732133865356445
+    },
+    "multiobject_4": {
+        "aes_score": 5.427748203277588
+    },
+    "humanobj_12": {
+        "aes_score": 5.704080581665039
+    },
+    "multiobject_14": {
+        "aes_score": 4.871789932250977
+    },
+    "faceobj_14": {
+        "aes_score": 5.714759826660156
+    },
+    "multiobject_21": {
+        "aes_score": 4.9460344314575195
+    },
+    "multihuman_10": {
+        "aes_score": 5.758050918579102
+    },
+    "singleobj_12": {
+        "aes_score": 4.907937049865723
+    },
+    "singleface_13": {
+        "aes_score": 5.497764587402344
+    },
+    "multiobject_3": {
+        "aes_score": 5.085319519042969
+    },
+    "faceobj_9": {
+        "aes_score": 4.2458577156066895
+    },
+    "multiobject_7": {
+        "aes_score": 5.39471435546875
+    },
+    "multiface_15": {
+        "aes_score": 5.817205429077148
+    },
+    "humanobj_4": {
+        "aes_score": 5.1822614669799805
+    },
+    "singleobj_15": {
+        "aes_score": 4.781711101531982
+    },
+    "multiobject_22": {
+        "aes_score": 4.719164848327637
+    },
+    "singleface_27": {
+        "aes_score": 5.3819990158081055
+    },
+    "faceobj_2": {
+        "aes_score": 5.785818099975586
+    },
+    "singleobj_14": {
+        "aes_score": 4.989217758178711
+    },
+    "singlehuman_20": {
+        "aes_score": 6.226616382598877
+    },
+    "multiface_11": {
+        "aes_score": 5.4037394523620605
+    },
+    "multiobject_16": {
+        "aes_score": 5.360004901885986
+    },
+    "singleobj_24": {
+        "aes_score": 5.014096260070801
+    },
+    "multiface_2": {
+        "aes_score": 5.467180252075195
+    },
+    "humanobj_11": {
+        "aes_score": 5.483789920806885
+    },
+    "singleobj_4": {
+        "aes_score": 5.307195663452148
+    },
+    "singleobj_23": {
+        "aes_score": 5.263779640197754
+    },
+    "singlehuman_13": {
+        "aes_score": 5.496536731719971
+    },
+    "singleobj_22": {
+        "aes_score": 5.426738739013672
+    },
+    "singleobj_29": {
+        "aes_score": 4.966564178466797
+    },
+    "faceobj_15": {
+        "aes_score": 6.137616157531738
+    },
+    "multiobject_5": {
+        "aes_score": 5.052787780761719
+    },
+    "singlehuman_8": {
+        "aes_score": 5.832236289978027
+    },
+    "multiobject_27": {
+        "aes_score": 5.188237190246582
+    },
+    "multihuman_11": {
+        "aes_score": 5.369000434875488
+    },
+    "multiface_7": {
+        "aes_score": 5.413429260253906
+    },
+    "singleobj_16": {
+        "aes_score": 4.980201244354248
+    },
+    "singleobj_21": {
+        "aes_score": 5.024440765380859
+    },
+    "singlehuman_24": {
+        "aes_score": 5.927722930908203
+    },
+    "singlehuman_18": {
+        "aes_score": 5.776000022888184
+    },
+    "singleface_29": {
+        "aes_score": 5.416040420532227
+    },
+    "faceobj_6": {
+        "aes_score": 5.61468505859375
+    },
+    "multiobject_18": {
+        "aes_score": 5.3397626876831055
+    },
+    "singleface_20": {
+        "aes_score": 5.23057746887207
+    },
+    "multiobject_2": {
+        "aes_score": 5.397001266479492
+    },
+    "multiobject_9": {
+        "aes_score": 5.342459201812744
+    },
+    "singleface_30": {
+        "aes_score": 6.551078796386719
+    },
+    "multiobject_20": {
+        "aes_score": 5.269896984100342
+    },
+    "singleobj_25": {
+        "aes_score": 5.126983642578125
+    },
+    "singleobj_6": {
+        "aes_score": 4.661377429962158
+    },
+    "singlehuman_26": {
+        "aes_score": 5.468658924102783
+    },
+    "singleface_1": {
+        "aes_score": 5.468006134033203
+    },
+    "multiface_14": {
+        "aes_score": 5.744608402252197
+    },
+    "singlehuman_10": {
+        "aes_score": 5.56938362121582
+    },
+    "multihuman_9": {
+        "aes_score": 5.284090995788574
+    },
+    "multihuman_15": {
+        "aes_score": 5.721685409545898
+    },
+    "singleobj_9": {
+        "aes_score": 5.512942314147949
+    },
+    "multiobject_10": {
+        "aes_score": 5.589330196380615
+    },
+    "faceobj_10": {
+        "aes_score": 4.491994857788086
+    },
+    "singleobj_17": {
+        "aes_score": 4.975095748901367
+    },
+    "multiobject_13": {
+        "aes_score": 5.642389297485352
+    },
+    "singleface_4": {
+        "aes_score": 5.387504577636719
+    },
+    "humanobj_13": {
+        "aes_score": 4.988344669342041
+    },
+    "singlehuman_4": {
+        "aes_score": 5.957078456878662
+    },
+    "singleface_5": {
+        "aes_score": 6.123787879943848
+    },
+    "humanobj_3": {
+        "aes_score": 5.177803039550781
+    },
+    "singleobj_11": {
+        "aes_score": 5.761227607727051
+    },
+    "faceobj_11": {
+        "aes_score": 5.752044677734375
+    },
+    "humanobj_1": {
+        "aes_score": 5.1966352462768555
+    },
+    "humanobj_5": {
+        "aes_score": 4.976808547973633
+    },
+    "multihuman_12": {
+        "aes_score": 5.726839065551758
+    },
+    "singlehuman_2": {
+        "aes_score": 5.480710506439209
+    },
+    "multihuman_7": {
+        "aes_score": 5.447229385375977
+    },
+    "multiobject_6": {
+        "aes_score": 5.29428768157959
+    },
+    "singleobj_19": {
+        "aes_score": 4.793525695800781
+    },
+    "singlehuman_22": {
+        "aes_score": 5.358919143676758
+    },
+    "singleobj_7": {
+        "aes_score": 5.398559093475342
+    },
+    "singlehuman_1": {
+        "aes_score": 5.660987854003906
+    },
+    "multiobject_15": {
+        "aes_score": 5.310192108154297
+    },
+    "humanobj_6": {
+        "aes_score": 5.2139387130737305
+    },
+    "singleobj_20": {
+        "aes_score": 4.8381028175354
+    },
+    "singleobj_13": {
+        "aes_score": 5.082819938659668
+    },
+    "faceobj_12": {
+        "aes_score": 6.092442512512207
+    }
+}

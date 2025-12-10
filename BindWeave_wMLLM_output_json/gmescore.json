@@ -1,0 +1,542 @@
+{
+    "singlehuman_9": {
+        "gme_score": 0.26708984375
+    },
+    "faceobj_8": {
+        "gme_score": 0.35595703125
+    },
+    "multihuman_14": {
+        "gme_score": 0.268798828125
+    },
+    "singleface_22": {
+        "gme_score": 0.25732421875
+    },
+    "singleface_19": {
+        "gme_score": 0.285400390625
+    },
+    "singleface_18": {
+        "gme_score": 0.288818359375
+    },
+    "singleface_12": {
+        "gme_score": 0.3076171875
+    },
+    "singleface_3": {
+        "gme_score": 0.30224609375
+    },
+    "multihuman_13": {
+        "gme_score": 0.26806640625
+    },
+    "multihuman_2": {
+        "gme_score": 0.26123046875
+    },
+    "singleface_16": {
+        "gme_score": 0.293212890625
+    },
+    "singlehuman_12": {
+        "gme_score": 0.30126953125
+    },
+    "multiface_10": {
+        "gme_score": 0.2666015625
+    },
+    "singleface_28": {
+        "gme_score": 0.277587890625
+    },
+    "singlehuman_27": {
+        "gme_score": 0.1925048828125
+    },
+    "singleobj_26": {
+        "gme_score": 0.2509765625
+    },
+    "multiobject_1": {
+        "gme_score": 0.27734375
+    },
+    "singleobj_8": {
+        "gme_score": 0.251708984375
+    },
+    "multiobject_26": {
+        "gme_score": 0.2099609375
+    },
+    "multiobject_24": {
+        "gme_score": 0.2568359375
+    },
+    "faceobj_1": {
+        "gme_score": 0.2919921875
+    },
+    "singleface_7": {
+        "gme_score": 0.2059326171875
+    },
+    "singlehuman_14": {
+        "gme_score": 0.177490234375
+    },
+    "multiface_8": {
+        "gme_score": 0.2578125
+    },
+    "faceobj_3": {
+        "gme_score": 0.31884765625
+    },
+    "singleobj_28": {
+        "gme_score": 0.324951171875
+    },
+    "singlehuman_15": {
+        "gme_score": 0.259765625
+    },
+    "singleface_23": {
+        "gme_score": 0.3017578125
+    },
+    "multiface_13": {
+        "gme_score": 0.27294921875
+    },
+    "multiface_5": {
+        "gme_score": 0.2486572265625
+    },
+    "singleface_9": {
+        "gme_score": 0.2474365234375
+    },
+    "faceobj_13": {
+        "gme_score": 0.280029296875
+    },
+    "singleface_24": {
+        "gme_score": 0.29345703125
+    },
+    "singleobj_3": {
+        "gme_score": 0.2454833984375
+    },
+    "singlehuman_30": {
+        "gme_score": 0.288818359375
+    },
+    "multiobject_19": {
+        "gme_score": 0.297119140625
+    },
+    "singleface_2": {
+        "gme_score": 0.2481689453125
+    },
+    "singlehuman_29": {
+        "gme_score": 0.284912109375
+    },
+    "singlehuman_6": {
+        "gme_score": 0.232177734375
+    },
+    "humanobj_8": {
+        "gme_score": 0.274658203125
+    },
+    "multiobject_28": {
+        "gme_score": 0.3232421875
+    },
+    "multiobject_8": {
+        "gme_score": 0.2685546875
+    },
+    "singleobj_10": {
+        "gme_score": 0.2880859375
+    },
+    "singleface_8": {
+        "gme_score": 0.30810546875
+    },
+    "multihuman_8": {
+        "gme_score": 0.280517578125
+    },
+    "multiface_12": {
+        "gme_score": 0.2349853515625
+    },
+    "singlehuman_7": {
+        "gme_score": 0.185302734375
+    },
+    "singleface_10": {
+        "gme_score": 0.1632080078125
+    },
+    "multiobject_30": {
+        "gme_score": 0.2471923828125
+    },
+    "singlehuman_21": {
+        "gme_score": 0.24853515625
+    },
+    "singleface_21": {
+        "gme_score": 0.256591796875
+    },
+    "singleface_26": {
+        "gme_score": 0.297119140625
+    },
+    "singleface_15": {
+        "gme_score": 0.26171875
+    },
+    "faceobj_4": {
+        "gme_score": 0.2978515625
+    },
+    "multihuman_1": {
+        "gme_score": 0.248291015625
+    },
+    "multiobject_29": {
+        "gme_score": 0.2115478515625
+    },
+    "singlehuman_5": {
+        "gme_score": 0.23095703125
+    },
+    "humanobj_2": {
+        "gme_score": 0.285888671875
+    },
+    "singlehuman_17": {
+        "gme_score": 0.192138671875
+    },
+    "singlehuman_23": {
+        "gme_score": 0.303955078125
+    },
+    "singlehuman_11": {
+        "gme_score": 0.31494140625
+    },
+    "multiobject_11": {
+        "gme_score": 0.2467041015625
+    },
+    "multiobject_25": {
+        "gme_score": 0.26904296875
+    },
+    "singlehuman_3": {
+        "gme_score": 0.2340087890625
+    },
+    "multiface_3": {
+        "gme_score": 0.261474609375
+    },
+    "singleobj_5": {
+        "gme_score": 0.28515625
+    },
+    "multihuman_3": {
+        "gme_score": 0.259765625
+    },
+    "multiobject_23": {
+        "gme_score": 0.26416015625
+    },
+    "singlehuman_19": {
+        "gme_score": 0.286376953125
+    },
+    "humanobj_7": {
+        "gme_score": 0.291015625
+    },
+    "faceobj_7": {
+        "gme_score": 0.3017578125
+    },
+    "humanobj_15": {
+        "gme_score": 0.335205078125
+    },
+    "singlehuman_16": {
+        "gme_score": 0.251220703125
+    },
+    "singleface_25": {
+        "gme_score": 0.2489013671875
+    },
+    "multihuman_5": {
+        "gme_score": 0.27294921875
+    },
+    "singlehuman_28": {
+        "gme_score": 0.30126953125
+    },
+    "humanobj_10": {
+        "gme_score": 0.326171875
+    },
+    "singleobj_2": {
+        "gme_score": 0.291259765625
+    },
+    "singleface_6": {
+        "gme_score": 0.3564453125
+    },
+    "singleface_17": {
+        "gme_score": 0.26513671875
+    },
+    "multihuman_6": {
+        "gme_score": 0.232666015625
+    },
+    "singleobj_18": {
+        "gme_score": 0.288330078125
+    },
+    "singlehuman_25": {
+        "gme_score": 0.2308349609375
+    },
+    "multihuman_4": {
+        "gme_score": 0.31494140625
+    },
+    "singleobj_30": {
+        "gme_score": 0.256103515625
+    },
+    "multiface_4": {
+        "gme_score": 0.27001953125
+    },
+    "singleface_11": {
+        "gme_score": 0.2357177734375
+    },
+    "singleobj_27": {
+        "gme_score": 0.275634765625
+    },
+    "multiface_1": {
+        "gme_score": 0.2548828125
+    },
+    "singleface_14": {
+        "gme_score": 0.2305908203125
+    },
+    "multiface_6": {
+        "gme_score": 0.2420654296875
+    },
+    "singleobj_1": {
+        "gme_score": 0.2427978515625
+    },
+    "multiobject_12": {
+        "gme_score": 0.259765625
+    },
+    "humanobj_9": {
+        "gme_score": 0.253173828125
+    },
+    "multiobject_17": {
+        "gme_score": 0.328369140625
+    },
+    "humanobj_14": {
+        "gme_score": 0.2354736328125
+    },
+    "multiface_9": {
+        "gme_score": 0.2039794921875
+    },
+    "faceobj_5": {
+        "gme_score": 0.33837890625
+    },
+    "multiobject_4": {
+        "gme_score": 0.28173828125
+    },
+    "humanobj_12": {
+        "gme_score": 0.30517578125
+    },
+    "multiobject_14": {
+        "gme_score": 0.252197265625
+    },
+    "faceobj_14": {
+        "gme_score": 0.253173828125
+    },
+    "multiobject_21": {
+        "gme_score": 0.224609375
+    },
+    "multihuman_10": {
+        "gme_score": 0.2197265625
+    },
+    "singleobj_12": {
+        "gme_score": 0.25341796875
+    },
+    "singleface_13": {
+        "gme_score": 0.27734375
+    },
+    "multiobject_3": {
+        "gme_score": 0.265869140625
+    },
+    "faceobj_9": {
+        "gme_score": 0.21533203125
+    },
+    "multiobject_7": {
+        "gme_score": 0.305908203125
+    },
+    "multiface_15": {
+        "gme_score": 0.290771484375
+    },
+    "humanobj_4": {
+        "gme_score": 0.2098388671875
+    },
+    "singleobj_15": {
+        "gme_score": 0.303955078125
+    },
+    "multiobject_22": {
+        "gme_score": 0.273681640625
+    },
+    "singleface_27": {
+        "gme_score": 0.249267578125
+    },
+    "faceobj_2": {
+        "gme_score": 0.28759765625
+    },
+    "singleobj_14": {
+        "gme_score": 0.2919921875
+    },
+    "singlehuman_20": {
+        "gme_score": 0.359619140625
+    },
+    "multiface_11": {
+        "gme_score": 0.266357421875
+    },
+    "multiobject_16": {
+        "gme_score": 0.25
+    },
+    "singleobj_24": {
+        "gme_score": 0.2919921875
+    },
+    "multiface_2": {
+        "gme_score": 0.273193359375
+    },
+    "humanobj_11": {
+        "gme_score": 0.281494140625
+    },
+    "singleobj_4": {
+        "gme_score": 0.26611328125
+    },
+    "singleobj_23": {
+        "gme_score": 0.2369384765625
+    },
+    "singlehuman_13": {
+        "gme_score": 0.287353515625
+    },
+    "singleobj_22": {
+        "gme_score": 0.300537109375
+    },
+    "singleobj_29": {
+        "gme_score": 0.291748046875
+    },
+    "faceobj_15": {
+        "gme_score": 0.347412109375
+    },
+    "multiobject_5": {
+        "gme_score": 0.202880859375
+    },
+    "singlehuman_8": {
+        "gme_score": 0.23583984375
+    },
+    "multiobject_27": {
+        "gme_score": 0.28564453125
+    },
+    "multihuman_11": {
+        "gme_score": 0.26611328125
+    },
+    "multiface_7": {
+        "gme_score": 0.223876953125
+    },
+    "singleobj_16": {
+        "gme_score": 0.271240234375
+    },
+    "singleobj_21": {
+        "gme_score": 0.2474365234375
+    },
+    "singlehuman_24": {
+        "gme_score": 0.2484130859375
+    },
+    "singlehuman_18": {
+        "gme_score": 0.315185546875
+    },
+    "singleface_29": {
+        "gme_score": 0.260009765625
+    },
+    "faceobj_6": {
+        "gme_score": 0.33154296875
+    },
+    "multiobject_18": {
+        "gme_score": 0.266845703125
+    },
+    "singleface_20": {
+        "gme_score": 0.268310546875
+    },
+    "multiobject_2": {
+        "gme_score": 0.2432861328125
+    },
+    "multiobject_9": {
+        "gme_score": 0.263916015625
+    },
+    "singleface_30": {
+        "gme_score": 0.2900390625
+    },
+    "multiobject_20": {
+        "gme_score": 0.295166015625
+    },
+    "singleobj_25": {
+        "gme_score": 0.260986328125
+    },
+    "singleobj_6": {
+        "gme_score": 0.216552734375
+    },
+    "singlehuman_26": {
+        "gme_score": 0.158447265625
+    },
+    "singleface_1": {
+        "gme_score": 0.25927734375
+    },
+    "multiface_14": {
+        "gme_score": 0.259521484375
+    },
+    "singlehuman_10": {
+        "gme_score": 0.1441650390625
+    },
+    "multihuman_9": {
+        "gme_score": 0.236083984375
+    },
+    "multihuman_15": {
+        "gme_score": 0.234375
+    },
+    "singleobj_9": {
+        "gme_score": 0.2452392578125
+    },
+    "multiobject_10": {
+        "gme_score": 0.271240234375
+    },
+    "faceobj_10": {
+        "gme_score": 0.2498779296875
+    },
+    "singleobj_17": {
+        "gme_score": 0.257568359375
+    },
+    "multiobject_13": {
+        "gme_score": 0.33154296875
+    },
+    "singleface_4": {
+        "gme_score": 0.326904296875
+    },
+    "humanobj_13": {
+        "gme_score": 0.262451171875
+    },
+    "singlehuman_4": {
+        "gme_score": 0.279541015625
+    },
+    "singleface_5": {
+        "gme_score": 0.26904296875
+    },
+    "humanobj_3": {
+        "gme_score": 0.377685546875
+    },
+    "singleobj_11": {
+        "gme_score": 0.29833984375
+    },
+    "faceobj_11": {
+        "gme_score": 0.37939453125
+    },
+    "humanobj_1": {
+        "gme_score": 0.2232666015625
+    },
+    "humanobj_5": {
+        "gme_score": 0.2423095703125
+    },
+    "multihuman_12": {
+        "gme_score": 0.21435546875
+    },
+    "singlehuman_2": {
+        "gme_score": 0.27392578125
+    },
+    "multihuman_7": {
+        "gme_score": 0.2822265625
+    },
+    "multiobject_6": {
+        "gme_score": 0.2447509765625
+    },
+    "singleobj_19": {
+        "gme_score": 0.2412109375
+    },
+    "singlehuman_22": {
+        "gme_score": 0.1768798828125
+    },
+    "singleobj_7": {
+        "gme_score": 0.298095703125
+    },
+    "singlehuman_1": {
+        "gme_score": 0.28271484375
+    },
+    "multiobject_15": {
+        "gme_score": 0.27685546875
+    },
+    "humanobj_6": {
+        "gme_score": 0.385498046875
+    },
+    "singleobj_20": {
+        "gme_score": 0.164794921875
+    },
+    "singleobj_13": {
+        "gme_score": 0.339111328125
+    },
+    "faceobj_12": {
+        "gme_score": 0.3388671875
+    }
+}
